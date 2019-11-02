@@ -1,0 +1,6 @@
+{
+    "colorFile": "/home/net663v2/cwc/exp4nav/House3D/House3D/metadata/colormap_coarse.csv",
+    "roomTargetFile": "/home/net663v2/cwc/exp4nav/House3D/House3D/metadata/room_target_object_map.csv",
+    "modelCategoryFile": "/home/net663v2/cwc/SUNCGtoolbox/metadata/ModelCategoryMapping.csv",
+    "prefix": "/home/net663v2/explore_layout/suncg_data/house/"
+}
